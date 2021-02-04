@@ -9,7 +9,7 @@
   ],
   "contact": {},
   "license": "LGPL-3.0",
-  "icon": "assets/anonymize/icon.png",
+  "icon": "/anonymize/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
